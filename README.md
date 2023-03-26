@@ -58,7 +58,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Demo
 
-A live demo of the IMDBClone app can be found [here](https://youtu.be/g2ccgfyeE24).
+A live demo of the Todo app you can be found [here](https://youtu.be/Wg7t5caGSqM).
 
 ## Acknowledgements
 This ToDo List app was built using React and Bootstrap. The following resources were used in the creation of this project:
