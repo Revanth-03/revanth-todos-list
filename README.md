@@ -1,7 +1,7 @@
 # React ToDo List App
 This is a simple ToDo List application built using React. It allows the user to add new tasks, view completed tasks, edit existing tasks, and delete tasks. The application is designed with a clean and responsive user interface using Bootstrap. This application can be used as a starting point for building more complex ToDo List applications.
 
-The app is hosted on GitHub Pages and can be accessed at [https://revanth-03.github.io/imdbclone.github.io/index.html](https://revanth-03.github.io/imdbclone.github.io/index.html).
+The app is hosted on Firebase and can be accessed at [https://react-todos-app-18640.web.app/](https://react-todos-app-18640.web.app/).
 
 
 ## Table of Contents
