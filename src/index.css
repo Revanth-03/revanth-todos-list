@@ -28,7 +28,7 @@ input:focus {
   border: 1px solid #633102 !important;
 }
 input::placeholder {
-  color: #f5a051 !important;
+  color: #f5dec9 !important;
 }
 
 @media (min-width: 1400px) {
