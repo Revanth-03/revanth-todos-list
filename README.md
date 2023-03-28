@@ -33,7 +33,7 @@ To clone the repository and open the `index.html` file, follow these steps:
 2. cd revanth-todos-list
 3. open index.html
 
- or simply download the repository to your local machine. Then, open the `index.html` file in a web browser.<br>
+ or simply download the repository to your local machine. Then run the command npm install to install all the dependences,after then run the command npm start.<br>
 
 
 ## Usage
