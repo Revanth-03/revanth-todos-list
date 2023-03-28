@@ -40,9 +40,9 @@ To clone the repository and open the `index.html` file, follow these steps:
 To add a new task, type the task into the input field and press  click the "Add" button. To edit a task, click the "Edit" button and click "Save" it will update the task text in the input field that appears. To delete a task, click the "Delete" button next to the task.
 
 ## Technologies
- React
- Bootstrap
- Axios
+  React
+  Bootstrap
+  Axios
 
 ## API
  This app uses the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API to store and retrieve tasks.
