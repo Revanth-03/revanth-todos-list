@@ -31,7 +31,7 @@ To clone the repository and open the `index.html` file, follow these steps:
 
 1. git clone https://github.com/revanth-03/revanth-todos-list
 2. cd revanth-todos-list
-3. open index.html
+3. open terminal run `npm start`.
 
  or simply download the repository to your local machine. Then run the command `npm install` to install all the dependences,after then run the command `npm start`.<br>
 
