@@ -19,7 +19,7 @@ function App() {
         })
         .then(
           (
-            response //console.log(response.data)
+            response
           ) => setTasks([response.data, ...tasks])
         );
       setNewTask("");
@@ -69,7 +69,7 @@ function App() {
       .get("https://jsonplaceholder.typicode.com/todos")
       .then(
         (
-          response //console.log("respones", response.data))
+          response 
         ) => setTasks(response.data)
       )
 
